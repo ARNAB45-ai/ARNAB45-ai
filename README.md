@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab45-ai&label=Profile%20views&color=0e75b6&style=flat" alt="arnab45-ai" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c9/09/61/c90961f446e17220fab2e424f33edb85.gif">
 
 - 🌱 I’m currently learning **Python, Tableau**
 
