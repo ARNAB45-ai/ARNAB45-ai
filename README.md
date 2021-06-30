@@ -10,8 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnab-bhowal-189347213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-bhowal-189347213" height="30" width="40" /></a>
-<a href="https://codesandbox.com/arnabbhowal99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="arnabbhowal99" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008485922265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008485922265" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/arnabbhowal99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/arnabbhowal99" height="30" width="40" /></a>
 <a href="https://instagram.com/_arnabbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arnabbhowal" height="30" width="40" /></a>
 </p>
 
