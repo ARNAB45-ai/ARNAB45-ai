@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab45-ai&label=Profile%20views&color=0e75b6&style=flat" alt="arnab45-ai" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif">
+
 - 🌱 I’m currently learning **Python, Tableau**
 
 - 📫 How to reach me **arnabbhowal99@gmail.com**
