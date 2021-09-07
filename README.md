@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/342971/screenshots/4199024/consentistry_mezzolab_gif_1.gif">
 
 
-- 🌱 I’m currently learning **Python, Tableau**
+- 🌱 I’m currently learning **Python, SQL**
 
 - 📫 How to reach me **arnabbhowal99@gmail.com**
 
